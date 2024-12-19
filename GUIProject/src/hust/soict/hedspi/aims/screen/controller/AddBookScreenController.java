@@ -71,7 +71,7 @@ public class AddBookScreenController {
     void initialize() {
         btnSave.setDisable(true);
         
-        tfTitle.textProperty().addListener((_, oldValue, newValue) -> checkFieldsFilled());
+        tfTitle.textProperty().addListener((observable, oldValue, newValue) -> checkFieldsFilled());
         tfCategory.textProperty().addListener((observable, oldValue, newValue) -> checkFieldsFilled());
         tfCost.textProperty().addListener((observable, oldValue, newValue) -> checkFieldsFilled());
     }   
