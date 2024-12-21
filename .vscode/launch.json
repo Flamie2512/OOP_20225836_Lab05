@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CartScreen",
+            "request": "launch",
+            "mainClass": "hust.soict.hedspi.aims.screen.CartScreen",
+            "projectName": "OOP_20225836_Lab05_7f1f48bd"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "program": "${file}",
