@@ -3,6 +3,55 @@
     "configurations": [
         {
             "type": "java",
+            "name": "AddDVDToStoreScreen",
+            "request": "launch",
+            "mainClass": "src.hust.soict.hedspi.aims.screen.AddDVDToStoreScreen",
+            "projectName": "OOP_20225836_Lab05_7f1f48bd"
+        },
+        {
+            "type": "java",
+            "name": "AWTAccumulator",
+            "request": "launch",
+            "mainClass": "src.hust.soict.hedspi.swing.AWTAccumulator",
+            "projectName": "OOP_20225836_Lab05_7f1f48bd"
+        },
+        {
+            "type": "java",
+            "name": "SwingAccumulator",
+            "request": "launch",
+            "mainClass": "src.hust.soict.hedspi.swing.SwingAccumulator",
+            "projectName": "OOP_20225836_Lab05_7f1f48bd"
+        },
+        {
+            "type": "java",
+            "name": "NumberGrid",
+            "request": "launch",
+            "mainClass": "src.hust.soict.hedspi.swing.NumberGrid",
+            "projectName": "OOP_20225836_Lab05_7f1f48bd"
+        },
+        {
+            "type": "java",
+            "name": "Painter",
+            "request": "launch",
+            "mainClass": "src.hust.soict.hedspi.javafx.Painter",
+            "projectName": "OOP_20225836_Lab05_7f1f48bd"
+        },
+        {
+            "type": "java",
+            "name": "StoreScreen",
+            "request": "launch",
+            "mainClass": "src.hust.soict.hedspi.aims.screen.StoreScreen",
+            "projectName": "OOP_20225836_Lab05_7f1f48bd"
+        },
+        {
+            "type": "java",
+            "name": "StoreScreen",
+            "request": "launch",
+            "mainClass": "hust.soict.hedspi.aims.screen.StoreScreen",
+            "projectName": "OOP_20225836_Lab05_7f1f48bd"
+        },
+        {
+            "type": "java",
             "name": "CartScreen",
             "request": "launch",
             "mainClass": "hust.soict.hedspi.aims.screen.CartScreen",
